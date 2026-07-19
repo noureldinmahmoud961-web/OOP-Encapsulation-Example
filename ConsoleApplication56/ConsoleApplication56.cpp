@@ -29,5 +29,6 @@ int main(){
 	student ob1;
 	ob1.set();
 	ob1.print();
-
+	
+       return 0;
 }
